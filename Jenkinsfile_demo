@@ -4,4 +4,5 @@ testFlow
 branch ='master'
 scmUrl = 'https://github.com/Sunnygupta1401/maven-project.git'
 email =  'team@example.com'
+check = 'testss'
                    }
