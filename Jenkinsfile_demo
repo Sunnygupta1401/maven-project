@@ -1,5 +1,5 @@
 library 'Jenkins_class-Library'
-testFlow
+testFlowss
 {
 branch ='master'
 scmUrl = 'https://github.com/Sunnygupta1401/maven-project.git'
