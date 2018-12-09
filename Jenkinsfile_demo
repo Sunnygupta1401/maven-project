@@ -1,4 +1,5 @@
 library 'Jenkins_class-Library'
+scm checkout
 testFlow
 {
 branch ='master'
