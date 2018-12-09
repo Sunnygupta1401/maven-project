@@ -6,6 +6,7 @@ scmUrl = 'https://github.com/Sunnygupta1401/maven-project.git'
 email =  'team@example.com'
 check = 'testss'
 stagingServer = '/Users/sunnygupta/Documents/apache-tomcat-8.5.20/webapps/'
+evaluate(new File("prop.groovy"))
 
 
 }
