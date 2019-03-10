@@ -1,7 +1,7 @@
 
 <!DOCTYPE html>
 <html>
-  <title>Message - <%out.print(printEditionTyp); %></title>
+  <title>test</title>
 
 <body>
 
