@@ -36,6 +36,15 @@ echo GIT_BRANCH
 echo env.BRANCH_NAME
          }
    
+   
+   stage('python')
+   {
+    withPythonEnv('python') {
+    sh 'which python'
+    
+    }  
+      
+   }
    if(env.BRANCH_NAME == 'master' || GIT_BRANCH == 'master'){
 
         stage('Deliver for production') {
